@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "pluggins": {
+  "Pluggin": {
     "id": "string",
     "pluggin_name": "string",
     "pluggin_version": "string"
