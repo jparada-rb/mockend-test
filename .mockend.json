@@ -12,7 +12,7 @@
   },
   "Pluggin": {
     "id": "string",
-    "pluggin_name": "string",
-    "pluggin_version": "string"
+    "plugginName": "string",
+    "plugginVersion": "string"
   }
 }
