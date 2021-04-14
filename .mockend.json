@@ -9,5 +9,10 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "pluggins": {
+    "id": "string",
+    "pluggin_name": "string",
+    "pluggin_version": "string"
   }
 }
